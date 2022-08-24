@@ -12,3 +12,9 @@ Performed geographical analysis on the Addresses of the ATMs of Banque Misr and 
 4. Used Power BI to create an interactive map to visualize the addresses' ATMs.
 
 <h2>ScreenShots:</h2>
+
+![image](https://user-images.githubusercontent.com/74511706/186516048-282c4662-7d2e-40b1-9253-06a7f09e651e.png)
+
+![image](https://user-images.githubusercontent.com/74511706/186516285-eb18a1b5-ed82-454d-970a-0017dcd921a4.png)
+
+![image](https://user-images.githubusercontent.com/74511706/186516357-c35798c0-f280-4dbb-9353-814a25567868.png)
